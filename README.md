@@ -2,6 +2,22 @@
 
 I'm a web developer currently based in Buenos Aires, Argentina.
 
+These are some (but not all) of my skills:
+
+* Javascript
+* HTML
+* CSS
+* ReactJs
+* GatsbyJs
+* MongoDB
+* ExpressJs
+* NodeJs
+* GraphQL
+* Bootstrap
+* UIKit
+
+!["cool"](https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif)
+
 Reach me @ www.tomasfreire.com & let's work together!
 
 <!--
