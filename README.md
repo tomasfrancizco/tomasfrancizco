@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a web developer located in Buenos Aires, Argentina.
+I'm a web developer currently based in Buenos Aires, Argentina.
 
 Reach me @ www.tomasfreire.com & let's work together!
 
