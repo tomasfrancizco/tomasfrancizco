@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a web developer located in Buenos Aires, Argentina.
+
+Reach me @ www.tomasfreire.com & let's work together!
+
 <!--
 **tomasfrancizco/tomasfrancizco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
