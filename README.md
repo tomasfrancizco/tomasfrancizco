@@ -13,8 +13,6 @@ These are some (but not all) of my skills:
 * ExpressJs
 * NodeJs
 * GraphQL
-* Bootstrap
-* UIKit
 
 !["cool"](https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif)
 
